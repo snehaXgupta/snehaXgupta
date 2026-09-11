@@ -99,39 +99,41 @@ Helped build and grow a developer community around cloud computing — from hand
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>📖 <a href="https://github.com/snehaXgupta/Book-Wise">Book-Wise</a></h3>
-      <p>Next-gen book discovery & catalog management system built for book enthusiasts.</p>
+      <h3>📚 <a href="https://github.com/snehaXgupta/Book-Wise">Book-Wise</a></h3>
+      <p>Your next favorite read shouldn't be a guessing game.</p>
       <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🗓️ <a href="https://github.com/snehaXgupta/Automated-Class-Schedule-Generator">Schedule Generator</a></h3>
-      <p>Algorithmic timetable engine for conflict-free automated class scheduling.</p>
+      <h3>🤖 <a href="https://github.com/snehaXgupta/manager-agent">Manager Agent</a></h3>
+      <p>Turning team data into something slightly more useful than another spreadsheet.</p>
       <p>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Algorithms-8A2BE2?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+        <img src="https://img.shields.io/badge/AI%2FLLM-8A2BE2?style=flat-square&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/APIs-005571?style=flat-square&logoColor=white" />
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📍 <a href="https://github.com/snehaXgupta/Real-Time_Device_Tracker">Device Tracker</a></h3>
-      <p>Live spatial geolocation and real-time device tracking platform.</p>
+      <h3>🔎 <a href="https://github.com/snehaXgupta/FraudLens">FraudLens</a></h3>
+      <p>AI-powered review verification, because apparently even reviews need background checks.</p>
       <p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/NLP%2FML-FF69B4?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/Flask%2FDjango-092E20?style=flat-square&logo=django&logoColor=white" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🛡️ <a href="https://github.com/snehaXgupta/prahari">Prahari</a></h3>
-      <p>Web security monitoring system designed for anomaly detection and alert triggering.</p>
+      <h3>☁️ <a href="https://github.com/snehaXgupta/Sky-Cast-Flutter">Sky Cast</a></h3>
+      <p>Because asking the sky directly is frowned upon.</p>
       <p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/OpenWeather_API-E67E22?style=flat-square&logoColor=white" />
       </p>
     </td>
   </tr>
