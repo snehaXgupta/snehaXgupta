@@ -81,6 +81,19 @@ I build full-stack applications, backend systems and cloud-powered workflows, wi
 
 ---
 
+### `// experience`
+
+☁️ **AWS Cloud Captain**  
+*AWS Cloud Club · University of Lucknow*
+
+Helped build and grow a developer community around cloud computing — from hands-on workshops to technical sessions and community events.
+
+```text
+15+  events contributed to
+7    events hosted as Cloud Captain
+200+ developers reached
+```
+
 ### `## 🚀 featured projects`
 
 <table width="100%">
@@ -130,10 +143,10 @@ I build full-stack applications, backend systems and cloud-powered workflows, wi
 ### `## 🔄 current status`
 
 ```text
-[✓] Wrote clean code
-[✓] Deployed service to AWS
-[✓] Blamed the cache
-[ ] Understood why it worked on the first try
+→ building full-stack applications
+→ exploring AWS & cloud architecture
+→ experimenting with AI/LLM workflows
+→ turning "I'll figure it out" into actual implementations
 ```
 
 ---
