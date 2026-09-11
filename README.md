@@ -84,7 +84,7 @@ I build full-stack applications, backend systems and cloud-powered workflows, wi
 ### `// experience`
 
 ☁️ **AWS Cloud Captain**  
-*AWS Cloud Club · University of Lucknow*
+*AWS Cloud Club · University of Lucknow - 2025*
 
 Helped build and grow a developer community around cloud computing — from hands-on workshops to technical sessions and community events.
 
@@ -170,5 +170,5 @@ Helped build and grow a developer community around cloud computing — from hand
 <br />
 
 <div align="center">
-  <sub><code>/* pushed to main. zero regrets (well, maybe one). */</code></sub>
+  <sub><code>/* pushed to main. Always 🪄 */</code></sub>
 </div>
