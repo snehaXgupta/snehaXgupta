@@ -158,10 +158,13 @@ Helped build and grow a developer community around cloud computing — from hand
   <a href="https://github.com/snehaXgupta">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://linkedin.com/in/snehaXgupta">
+  <a href="https://www.linkedin.com/in/sneha-gupta-8701d1078/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:snehaXgupta@users.noreply.github.com">
+  <a href="https://x.com/sneha_1078">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="mailto:shubhigupta1078@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 
